@@ -1,0 +1,13 @@
+#sketch {
+	width:1000px;
+	margin: auto;
+	height: 1000px
+	background-color: gray;
+}
+
+.square {
+	border: .10px solid gray;
+	background-color: black;
+	float: left;
+
+}
